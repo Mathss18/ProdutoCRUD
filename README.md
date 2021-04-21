@@ -1,9 +1,9 @@
 # Produto CRUD
 
 Para iniciar o servidor rode o comando: 
-npm run start
+# npm run start
 ou
-npm run devStart (para modo dev)
+# npm run devStart (para modo dev)
 
 Para iniciar o cliente rode o comando: 
-npm start
+# npm start
